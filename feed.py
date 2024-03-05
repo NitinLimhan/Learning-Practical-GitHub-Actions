@@ -1,4 +1,4 @@
-import '/opt/hostedtoolcache/Python/3.10.13/x64/lib/yaml'
+import yaml
 import xml.etree.ElementTree as xml_tree
 
 with open('feed.yaml', 'r') as file:
