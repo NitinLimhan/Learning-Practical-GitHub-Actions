@@ -1,4 +1,4 @@
-name: Generate Podcast Feeds = Previous
+name: Generate Podcast Feeds - Previous
 on: [push]
 jobs:
   build:
